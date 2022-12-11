@@ -2,13 +2,6 @@
 
 AI Assistant 是基於 OpenAI API 與 LINE Messaging API 實作的範例應用程式，透過安裝步驟，你可以使用 LINE 手機應用程式與你專屬的 AI 助理聊天。
 
-## 範例
-
-<p align="center">
-  <img src="demo/screenshot-1.png" width="300"/>
-  <img src="demo/screenshot-2.png" width="300"/>
-</p>
-
 ## 安裝步驟
 
 - 登入 [OpenAI](https://beta.openai.com/) 平台，或註冊一個新的帳號。
@@ -181,14 +174,3 @@ AI: 嗨！我可以怎麼幫助你？
 Human: 我是誰？
 AI: 你是一個人，一個有意識的生物！
 ```
-
-## 相關專案
-
-- [line-bot-node](https://github.com/memochou1993/line-bot-node)
-- [openai-cli-node](https://github.com/memochou1993/openai-cli-node)
-
-## 貢獻者
-
-<a href="https://github.com/memochou1993/nyan-profile/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=memochou1993/nyan-profile" width="50" />
-</a>
